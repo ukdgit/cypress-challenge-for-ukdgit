@@ -1,6 +1,4 @@
 # CypressAutomation
-BigBinary TheAceInvoice Challenge. I have completed the AceInvoice challenge using cypress.
-
 Prerequisite to run this project : 
 
 1. Install Cypress - https://docs.cypress.io/guides/getting-started/installing-cypress
